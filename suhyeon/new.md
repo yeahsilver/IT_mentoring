@@ -29,7 +29,7 @@
 
 <hr/>
 
-[수현]([IT_mentoring](https://github.com/yeahsilver/IT_mentoring)/**suhyeon**/)
+[수현](../suhyeon)
 
 
 
