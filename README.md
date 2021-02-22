@@ -11,7 +11,7 @@
 |이름|학번|  
 |---|---|
 |[김하영](https://github.com/HayoungKim20/mentoring_assignments)|20201724| 
-|최예린|20201771| 
+|[최예린](https://github.com/yeilin-dpfls/mentoring-assignments)|20201771| 
 |[신민주](https://github.com/remotionis/mentoring_assignments)|20201734|
 |[조성현](https://github.com/seonghyeoncho/mentoring_assignments)|20201766|
 |[조수현](https://github.com/parcon99/mentoring_assignments)|20180817||
