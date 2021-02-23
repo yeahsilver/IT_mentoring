@@ -1,1 +1,0 @@
-Minju's repository
